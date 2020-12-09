@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 项目在线地址
-[music.rong5180.top](music.rong5180.top)
+[music.rong5180.top](https://music.rong5180.top)
